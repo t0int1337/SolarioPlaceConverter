@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -62,6 +62,10 @@ namespace SolarioPlaceConverter
             text = text.Replace("assetdelivery.roblox.com", "assetdelivery.solario.lol");
             text = text.Replace("api.roblox.com", "api.solario.lol");
             text = text.Replace("assetgame.roblox.com", "assetgame.solario.lol");
+            if (enablehttp.IsChecked == true)
+            {
+                text = text.Replace("<bool name=\"HttpEnabled\">false</bool>", "<bool name=\"HttpEnabled\">true</bool>");
+            }
             // write to file (filename: placename_converted.rbxlx)
             System.IO.File.WriteAllText(path.Replace(".rbxlx", "_converted.rbxlx"), text);
             MessageBox.Show("Conversion complete! Saved as " + path.Replace(".rbxlx", "_converted.rbxlx"));
