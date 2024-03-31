@@ -1,0 +1,15 @@
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\bin\Debug\SolarioPlaceConverter.exe.config
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\bin\Debug\SolarioPlaceConverter.exe
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\bin\Debug\SolarioPlaceConverter.pdb
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter.csproj.AssemblyReference.cache
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\MainWindow.g.cs
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\App.g.cs
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter_MarkupCompile.cache
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter_MarkupCompile.lref
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\MainWindow.baml
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter.g.resources
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter.Properties.Resources.resources
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter.csproj.GenerateResource.cache
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter.csproj.CoreCompileInputs.cache
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter.exe
+C:\Users\atkn1\source\repos\SolarioPlaceConverter\SolarioPlaceConverter\obj\Debug\SolarioPlaceConverter.pdb
