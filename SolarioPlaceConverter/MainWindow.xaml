@@ -1,4 +1,4 @@
-﻿<Window x:Class="SolarioPlaceConverter.MainWindow"
+<Window x:Class="SolarioPlaceConverter.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -17,7 +17,7 @@
         <TextBox x:Name="textBox" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="110,82,0,0" TextWrapping="Wrap" Text="Select RBXLX Path" VerticalAlignment="Top" Width="332" Grid.RowSpan="2" Height="29"/>
         <Button Content="Convert" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Height="29" Width="93" Click="Button_Click_1" BorderBrush="White" Grid.Row="1" Background="#FF373737" Foreground="White"/>
         <Label Content="Make sure the file you select is a RBXLX file." VerticalContentAlignment="Center"  HorizontalAlignment="Left" Margin="110,37,0,0" VerticalAlignment="Top" Width="413" FontSize="14" FontFamily="Corbel Light" Height="29" Foreground="#FFFFF500" Grid.Row="1"/>
-        <Label VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="581,199,0,0" VerticalAlignment="Top" Width="175" FontSize="14" FontFamily="Consolas" Height="31" Foreground="White" Grid.Row="1">Made by t0int with ❤</Label>
+        <Label VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="571,189,0,0" VerticalAlignment="Top" Width="175" FontSize="14" FontFamily="Consolas" Height="31" Foreground="White" Grid.Row="1">Made by t0int with ❤</Label>
         
 
     </Grid>
